@@ -1,0 +1,15 @@
+.pic_box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 7%;
+}
+
+.text_author {
+  text-decoration: none;
+}
+
+a.picLink span {
+  text-decoration: none;
+}
